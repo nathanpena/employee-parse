@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nathan\\Apps\\csv-employee\\csv.csproj",
+      "projectUniqueName": "C:\\Users\\nathan\\Apps\\employee-parse\\csv.csproj",
       "projectName": "csv",
-      "projectPath": "C:\\Users\\nathan\\Apps\\csv-employee\\csv.csproj",
+      "projectPath": "C:\\Users\\nathan\\Apps\\employee-parse\\csv.csproj",
       "packagesPath": "C:\\Users\\nathan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nathan\\Apps\\csv-employee\\obj\\",
+      "outputPath": "C:\\Users\\nathan\\Apps\\employee-parse\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

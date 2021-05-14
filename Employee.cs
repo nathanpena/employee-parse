@@ -84,7 +84,7 @@ namespace csv
 
         public override string ToString()
         {
-            var d = ',';
+            var d = '|';
             return $"{FirstName}{d}{MiddleName}{d}{LastName}{d}{Gender}{d}{SSN}{d}{DOB}{d}{Department}{d}{Occupation}";
         }
     }
