@@ -32,14 +32,9 @@ namespace csv
         {
             this.Department = "Corporate";
 
-            if (String.IsNullOrEmpty(rowData))
+            if (!String.IsNullOrEmpty(rowData) && rowData.Trim().ToLower() != "corporate")
             {
-                string dept = rowData.Trim().ToLower();
-
-                if (dept != "corporate")
-                {
-                    this.Department = "Operations";
-                }
+                this.Department = "Operations";
             }
         }
 
@@ -57,10 +52,11 @@ namespace csv
         private void ParseGender(string rowData)
         {
             string gender = rowData.Trim()[0].ToString().ToUpper();
-            if( gender == "M" || gender == "F")
+            if (gender == "M" || gender == "F")
             {
                 this.Gender = gender;
-            } else
+            }
+            else
             {
                 this.Gender = "U";
             }
@@ -69,12 +65,13 @@ namespace csv
         private void ParseFullName(string rowData)
         {
             string[] parsedName = rowData.Trim().Split(" ");
-            if(parsedName.Length == 2)
+            if (parsedName.Length == 2)
             {
                 this.FirstName = parsedName[0];
                 this.MiddleName = String.Empty;
                 this.LastName = parsedName[1];
-            } else
+            }
+            else
             {
                 this.FirstName = parsedName[0];
                 this.MiddleName = parsedName[1];

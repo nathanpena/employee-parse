@@ -24,3 +24,16 @@ C:\Users\nathan\Apps\csv-employee\obj\Debug\netcoreapp3.1\csv.csproj.CoreCompile
 C:\Users\nathan\Apps\csv-employee\obj\Debug\netcoreapp3.1\csv.dll
 C:\Users\nathan\Apps\csv-employee\obj\Debug\netcoreapp3.1\csv.pdb
 C:\Users\nathan\Apps\csv-employee\obj\Debug\netcoreapp3.1\csv.genruntimeconfig.cache
+C:\Users\nathan\Apps\employee-parse\bin\Debug\netcoreapp3.1\csv.exe
+C:\Users\nathan\Apps\employee-parse\bin\Debug\netcoreapp3.1\csv.deps.json
+C:\Users\nathan\Apps\employee-parse\bin\Debug\netcoreapp3.1\csv.runtimeconfig.json
+C:\Users\nathan\Apps\employee-parse\bin\Debug\netcoreapp3.1\csv.runtimeconfig.dev.json
+C:\Users\nathan\Apps\employee-parse\bin\Debug\netcoreapp3.1\csv.dll
+C:\Users\nathan\Apps\employee-parse\bin\Debug\netcoreapp3.1\csv.pdb
+C:\Users\nathan\Apps\employee-parse\obj\Debug\netcoreapp3.1\csv.csprojAssemblyReference.cache
+C:\Users\nathan\Apps\employee-parse\obj\Debug\netcoreapp3.1\csv.AssemblyInfoInputs.cache
+C:\Users\nathan\Apps\employee-parse\obj\Debug\netcoreapp3.1\csv.AssemblyInfo.cs
+C:\Users\nathan\Apps\employee-parse\obj\Debug\netcoreapp3.1\csv.csproj.CoreCompileInputs.cache
+C:\Users\nathan\Apps\employee-parse\obj\Debug\netcoreapp3.1\csv.dll
+C:\Users\nathan\Apps\employee-parse\obj\Debug\netcoreapp3.1\csv.pdb
+C:\Users\nathan\Apps\employee-parse\obj\Debug\netcoreapp3.1\csv.genruntimeconfig.cache
